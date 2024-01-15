@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Alfred Jerico</h1>
-<h3 align="center">Desarrollador Backend en Java y C#</h3>
+<h3 align="center">Desarrollador Backend en  C#</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerico2530&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="jerico2530" /> </p>
 
